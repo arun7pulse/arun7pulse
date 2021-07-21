@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ArunSanthoshKumar Annamalai and here is my profile @arun7pulse
-- 👀 I’m interested in ...Coding, Python, Data and analytics
+- 👀 I’m interested in ...Coding, Python, Automation and Data Analytics
 - 🌱 I’m currently learning ... To implement automated systems for investing and bot.  
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on start up ideas, product build
 - 📫 How to reach me ... Google/Twitter/LinkedIn/kaggle/Github -  @arun7pulse 
 
 <!---
