@@ -7,7 +7,7 @@
 ## What I Want  
 - 💞️ I’m looking to collaborate on start up ideas, product build
 ## Whats my Contact
-- 📫 How to reach me ... Google/Twitter/LinkedIn/Kaggle/Github -  @arun7pulse 
+- 📫 How to reach me ... Google/Twitter/LinkedIn/Kaggle/Github -  @arun7pulse.
 
 <!---
 arun7pulse/arun7pulse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
