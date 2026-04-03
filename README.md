@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Arun Santhosh Kumar Annamalai 👋</h1>
+<h1 align="center">Hi, I'm ArunSanthoshKumar Annamalai 👋</h1>
 
 <p align="center">
-  <b>Principal Architect · Site Reliability Engineering (SRE) · Director SRE</b><br/>
+  <b>Director, Principal Architect· Site Reliability Engineering (SRE).</b><br/>
   <i>Building resilient, scalable systems — bridging Architecture and Operations at cloud scale.</i>
 </p>
 
