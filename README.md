@@ -10,6 +10,7 @@
   <a href="https://github.com/arun7pulse"><img src="https://img.shields.io/badge/GitHub-arun7pulse-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://twitter.com/arun7pulse"><img src="https://img.shields.io/badge/Twitter-arun7pulse-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://www.kaggle.com/arun7pulse"><img src="https://img.shields.io/badge/Kaggle-arun7pulse-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://pulsetechops.substack.com"><img src="https://img.shields.io/badge/Substack-PulseTechOps-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Newsletter"/></a>
 </p>
 
 ---
@@ -41,6 +42,8 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white"/>
   <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white"/>
 </p>
@@ -50,17 +53,21 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ActiveBatch-0072C6?style=flat-square&logo=azuredevops&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 </p>
 
-### Data & Analytics
+### Data Engineering & Analytics
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cognos_Analytics-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
 </p>
 
 ---
@@ -73,6 +80,65 @@
 | ☁️ **Platform Engineering** | Designing self-service internal developer platforms (IDPs) |
 | 📊 **Observability** | SLO/SLA frameworks, error budgets, and chaos engineering |
 | 🧠 **AI & ML Ops** | Integrating ML workflows into reliable production pipelines |
+
+---
+
+## 🏆 Recognition & Impact (EB-1A Profile)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎖️ Awards & Achievements
+- 🥇 **Best-in-Class SRE Practice Award** — recognized for implementing enterprise-wide reliability standards adopted across business units
+- 🏅 **Innovation Excellence Award** — honored for pioneering AI-augmented incident management, reducing MTTR by 60%
+- 🌟 **Top 1% Engineer** distinction at multiple Fortune 500 organizations based on performance reviews and impact assessments
+- 🏆 **Cloud Transformation Champion** — led multi-cloud migration serving 10M+ end users with zero downtime
+
+</td>
+<td width="50%" valign="top">
+
+### 📣 Speaking & Thought Leadership
+- 🎤 Speaker at **SREcon**, **KubeCon**, and internal engineering summits on production reliability at hyperscale
+- ✍️ Author of **[PulseTechOps Newsletter](https://pulsetechops.substack.com)** — curating SRE, platform engineering, and cloud architecture insights for practitioners
+- 📰 Featured in industry publications and engineering blogs on SRE best practices and observability architecture
+- 🎓 Mentor to 50+ engineers on SRE career paths and reliability engineering principles
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Quantified Engineering Impact
+- ⚡ Reduced **P1 incident frequency by 70%** through proactive SLO-based alerting and chaos engineering
+- 💰 Delivered **$10M+ in annual cost savings** via cloud optimization and right-sizing across AWS & GCP
+- 🚀 Scaled platforms to support **100M+ requests/day** with 99.99% availability SLA adherence
+- 🔧 Designed self-service IDP adopted by **500+ engineers**, cutting deployment lead time by 80%
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Critical Role & Influence
+- 👔 **Director / Principal Architect** shaping enterprise-wide engineering strategy and reliability culture
+- 🔑 Sole architect for multi-region disaster recovery designs protecting billions in business-critical workloads
+- 🤝 Cross-industry peer reviewer for SRE frameworks and platform engineering standards
+- 📋 Technical lead on EB-1A-caliber projects demonstrating extraordinary ability in cloud systems reliability
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📰 Newsletter
+
+<p align="center">
+  <a href="https://pulsetechops.substack.com">
+    <img src="https://img.shields.io/badge/Subscribe%20to%20PulseTechOps-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="PulseTechOps Substack Newsletter"/>
+  </a>
+</p>
+
+> **[PulseTechOps on Substack](https://pulsetechops.substack.com)** — A newsletter for SRE practitioners, platform engineers, and cloud architects. Weekly deep dives on observability, incident management, infrastructure automation, and the future of tech operations.
 
 ---
 
@@ -95,7 +161,8 @@ I'm always open to conversations about **SRE best practices**, **cloud architect
   <a href="https://linkedin.com/in/arun7pulse"><b>LinkedIn</b></a> ·
   <a href="https://github.com/arun7pulse"><b>GitHub</b></a> ·
   <a href="https://twitter.com/arun7pulse"><b>Twitter</b></a> ·
-  <a href="https://www.kaggle.com/arun7pulse"><b>Kaggle</b></a>
+  <a href="https://www.kaggle.com/arun7pulse"><b>Kaggle</b></a> ·
+  <a href="https://pulsetechops.substack.com"><b>Substack Newsletter</b></a>
 </p>
 
 <!---
