@@ -18,7 +18,8 @@
 ## 🧑‍💼 About Me
 
 - 🏗️ **Principal Architect / Director SRE** — designing high-availability platforms and leading reliability engineering at scale
-- 🔭 Specialize in **Site Reliability Engineering (SRE)**, **Platform Engineering**, and **Cloud Architecture**
+- 🔭 Specialize in **Site Reliability Engineering (SRE)**, **Platform Engineering**, **Cloud Architecture**, and **Telemetry**
+- 📡 **Telemetry Expert** — designing end-to-end observability pipelines with OpenTelemetry, distributed tracing, metrics, and log aggregation at enterprise scale
 - 🤖 Passionate about **Python**, **Automation**, **Data Analytics**, and **AI-driven investing systems**
 - 🤝 Open to collaborating on **start-up ideas**, **product builds**, and **open-source SRE tooling**
 - 📫 Reach me anywhere as **@arun7pulse** — LinkedIn · GitHub · Twitter · Kaggle · Google
